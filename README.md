@@ -1,0 +1,2 @@
+# VSCode_Connection_Test
+VSCodeと連携する様に練習用として作成
